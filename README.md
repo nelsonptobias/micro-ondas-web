@@ -53,13 +53,13 @@ Adiciona um programa
 ### Parâmetros
 Passar um json no body com o formato:
 
-'{  
+`{  
    "charHeating":"-",
-   "programName":"Presunto",
+   "programName":"Presuno",
    "useInstructions":"mata o porco",
    "time":10,
    "power":1
-}'
+}`
 
 
 # OBS:
