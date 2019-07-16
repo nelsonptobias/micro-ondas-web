@@ -4,12 +4,12 @@ Uma api simulando um micro-ondas
 ## Funcionamento
 Utilizando as rotas abaixo você conseguirá iniciar uma simulação de micro ondas.
 Quando enviada uma requisição para iniciar o aquecimento, é necessário consultar até que ele seja terminado para obter a mensagem de retorno.
-Você pode pesquisar as programas de aquecimento ou criar seu próprio programa
+Você pode pesquisar programas de aquecimento ou criar seu próprio programa.
 
 # rotas
 
 ## get http://localhost:5000/api/turnOn
-Retorna todas os programas existentes. Se nenhum programa for criado ele retorna os 3 programas padrão registrados.
+Retorna todas os programas existentes. Se nenhum programa for criado ele retorna os 3 programas padrões registrados.
 
 ### Parâmetros
 N/A
